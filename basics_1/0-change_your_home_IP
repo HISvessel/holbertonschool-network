@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#this script changes the jome IP for localhost and faceook.com
+sudo ifconfig 
