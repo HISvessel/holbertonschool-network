@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#this script is for understanding TCP and UDP ports
+netstat -lp
