@@ -38,3 +38,9 @@ Differences between a LAN and a WAN:
 
 There are also other types of private networks engineered with layers of security, such as a VPN(virtual private network) or a EPN(enterprise private network)
 
+3) MAC addres:
+-> MAC, or media access control, is a string of characters that indentifies a device on the networl. It is tied to a key connection device in your computer called network interface card, or NIC, which is a computer circuit card that makes it possible for your computer to connect to a network by turning data into an electrical signal that can be transmitted over the network. These NICs have a hardware address that is known as a mAC address. As such, they are linked to the hardware of network adapters.
+
+-> MAC addresses are very useful in diagnosing network issues such as problems with IP addresses. MACs are useful for these because they never change, as opposed to dyunamic IP addresses. Network administrators find themselves using MAC addresses to identify senders and recievers of data in a network. 
+
+4) IP address
