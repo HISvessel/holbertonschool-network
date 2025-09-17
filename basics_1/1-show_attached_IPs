@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 #this script shows all IPv4 IP
-ifconfig -a
+ifconfig -a | grep 'inet' | awk '{print $2}'
