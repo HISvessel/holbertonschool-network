@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #this script shows all IPv4 IPs
 
-ifconfig -a
+ip a
