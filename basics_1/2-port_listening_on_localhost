@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#this script allows listening to a port given by the nc command
+nc -l localhost 98
